@@ -9,6 +9,9 @@ Slides and video are in the Documents folder. Always take the master version as 
 ## Demo setps
 
 Different steps are tagged in the repository so you can access different stages of the project easily.
+* [Step 0](https://github.com/anirul/SGADemo/releases/tag/v0.0) Empty project
+* [Step 1](https://github.com/anirul/SGADemo/releases/tag/v0.1) Pawn & Game Mode
+
 
 ## Additional Pointers
 
