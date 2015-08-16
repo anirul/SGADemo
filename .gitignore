@@ -1,0 +1,10 @@
+DerivedDataCache
+Intermediate
+Saved
+Build
+MacNoEditor
+*.pdb
+*.sdf
+*.sln
+*.opensdf
+*.suo
