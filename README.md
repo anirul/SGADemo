@@ -12,6 +12,7 @@ Different steps are tagged in the repository so you can access different stages 
 * [Step 0](https://github.com/anirul/SGADemo/releases/tag/v0.0) Empty project
 * [Step 1](https://github.com/anirul/SGADemo/releases/tag/v0.1) Pawn & Game Mode
 * [Step 2](https://github.com/anirul/SGADemo/releases/tag/v0.2) Forward we go!
+* [Step 3](https://github.com/anirul/SGADemo/releases/tag/v0.3) We can move around
 
 ## Additional Pointers
 
